@@ -1,0 +1,15 @@
+color:
+headerColor:#4e4e4e;
+hederHover:#1abb9c;
+defaultTextColor:#f3f3f3;
+secoundaryTextColor:#4e4e4e;
+subTextColor:#a8a8a8;
+darkGray:#616161;
+lightGray:#a8a8a8; 
+btnColor:#3f8dbf;
+bg-offwhite:#efefef;
+quote-text-color:#a1a1a1;
+hrLinecolor:#3a3a3a
+logoColor:#a89574;
+
+text:[RobotoCondensed],[RobotoSlab :bold ],[Roboto :regular],Arial Rounded MT Bold
